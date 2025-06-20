@@ -7,7 +7,7 @@ import InterviewCard from "@/components/InterviewCard";
 
 const page = () => {
 
-    console.log("hello");
+
   return (
    <>
        <section className="card-cta">
